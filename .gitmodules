@@ -1,0 +1,3 @@
+[submodule "sub-project-saito"]
+	path = sub-project-saito
+	url = git@github.com:keiki-saito/sub-project-saito.git
